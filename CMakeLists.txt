@@ -12,3 +12,5 @@ endif ()
 
 include("${CMAKE_BINARY_DIR}/bootstrap.cmake")
 include(.cmake_utilities/modules/all.cmake)
+
+structured_directories()
